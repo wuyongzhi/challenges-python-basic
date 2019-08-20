@@ -3,7 +3,7 @@ title: 开始编程之旅
 description: 哈哈
 ---
 
-## Insert challenge title here
+## 第一个程序
 
 ```yaml
 type: OutputChallenge
