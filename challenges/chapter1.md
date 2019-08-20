@@ -119,3 +119,30 @@ op:
 - '-'
 - '*'
 ```
+
+---
+
+## Insert challenge title here
+
+```yaml
+type: BlanksChallenge
+key: 427ba61214
+```
+
+`@context`
+
+
+`@pre_challenge_code`
+```{python}
+
+```
+
+`@variables`
+```yaml
+
+```
+
+`@distractors`
+```yaml
+
+```
